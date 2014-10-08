@@ -1,0 +1,3 @@
+[submodule "lib/cryptsy"]
+	path = lib/cryptsy
+	url = git@github.com:tkaprol/cryptsy.git
